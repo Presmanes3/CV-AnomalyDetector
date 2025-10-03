@@ -1,0 +1,14 @@
+site_name: CV-AnomalyDetector Documentation
+site_url: https://github.com/Presmanes3/CV-AnomalyDetector
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  
+markdown_extensions:
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
